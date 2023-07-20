@@ -8,9 +8,8 @@
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=shraysalvi&label=Profile%20views&color=FF147A&style=for-the-badge&?" alt="shraysalvi" height=25px, width=160px/>
 </p>
-<p style="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraysalvi&layout=donut&theme=radical" alt="SHRAY SALVI Language Chart">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shraysalvi&theme=radical" alt="SHRAY SALVI Streak Stats">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraysalvi&layout=donut&theme=radical&hide_border=true" alt="SHRAY SALVI Language Chart">
 </p>
 
 - 👀 I’m interested in project management, software development and data science.
