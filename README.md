@@ -17,9 +17,12 @@
 
 ## <b> About</b>
 
-- 👀 I’m interested in project management, software development and data science.
-- 🌱 I’m currently learning software development and data science with python. 
-- 📫 Reach me : shraysalvi@outlook.com.
+- Founder & CEO at [**ARLARSE**](https://cramming.arlarse.tech) (Learning Platform for Coding).
+- **Python Developer** with expertise in Django, REST API integration, and database management.
+- Full-Stack Web Developer experienced in **Three.js**, **Bootstrap**, and Docker containerization.
+- Passionate about **Data Science**, **DevOps**, and Cloud Computing (MS Azure).
+- Published author of a book on [**C++**](https://notionpress.com/read/b-to-a-c).
+
 
 <br>
 
