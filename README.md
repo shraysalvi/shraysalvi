@@ -8,6 +8,10 @@
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=shraysalvi&label=Profile%20views&color=FF147A&style=for-the-badge&?" alt="shraysalvi" height=25px, width=160px/>
 </p>
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shraysalvi.shraysalvi" alt="visitor badge"/>
+</p>
+
 - 👀 I’m interested in project management, software development and data science.
 - 🌱 I’m currently learning software development and data science with python. 
 - 📫 Reach me : shraysalvi@outlook.com.
