@@ -6,7 +6,10 @@
     alt="Software Developer" />
 </p>
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=shraysalvi&label=Profile%20views&color=FF147A&style=for-the-badge&?" alt="shraysalvi" height=25px, width=160px/>
+	<img src="https://komarev.com/ghpvc/?username=shraysalvi&label=Profile%20views&color=FF147A&style=for-the-badge&?" alt="shraysalvi"/>
+	<a href="https://linkedin.com/in/shraysalvi"><img src="https://img.shields.io/badge/-shraysalvi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+	<a href="mailto:shraysalvi@outlook.com"><img src="https://img.shields.io/badge/-shraysalvi@outlook.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraysalvi&layout=donut&theme=radical&hide_border=true" alt="SHRAY SALVI Language Chart">
@@ -53,16 +56,3 @@
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-
------
-
-<br>
