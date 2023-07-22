@@ -2,7 +2,7 @@
     width="35"></h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=32&duration=6000&pause=1500&color=FF147A&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Developer;Product+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=32&duration=6000&pause=1500&color=FF147A&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Developer;Product+Engineer;Author"
     alt="Software Developer" />
 </p>
 <p align="center">
