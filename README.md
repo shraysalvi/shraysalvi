@@ -8,7 +8,7 @@
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=shraysalvi&label=Profile%20views&color=FF147A&style=for-the-badge&?" alt="shraysalvi"/>
 	<a href="https://linkedin.com/in/shraysalvi"><img src="https://img.shields.io/badge/-shraysalvi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-	<a href="mailto:shraysalvi@yahoo.com"><img src="https://img.shields.io/badge/-shraysalvi@outlook.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+	<a href="mailto:shraysalvi@yahoo.com"><img src="https://img.shields.io/badge/-shraysalvi@yahoo.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </p>
 <p align="center">
