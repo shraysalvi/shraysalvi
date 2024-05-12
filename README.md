@@ -17,7 +17,7 @@
 
 ## <b> About</b>
 
-- Founder & CEO at [**ARLARSE**](https://cramming.arlarse.tech) (Learning Platform for Coding).
+- SDE at [**ARLARSE**](https://arlarse.me) (Learning Platform for Coding).
 - **Python Developer** with expertise in Django, REST API integration, and database management.
 - Full-Stack Web Developer experienced in **Three.js**, **Bootstrap**, and Docker containerization.
 - Passionate about **Data Science**, **DevOps**, and Cloud Computing (MS Azure).
